@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
    ```
 2. Navigate to the project directory:
    ```sh
-   cd your-repository
+   cd my-repository
    ```
 3. Install dependencies:
    ```sh
@@ -59,5 +59,5 @@ You can find the API documentation [here](https://documenter.getpostman.com/view
 ## Contact
 
 If you have any questions or feedback, feel free to contact with me.
-
+01317762775
 ```
